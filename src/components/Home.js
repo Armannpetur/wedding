@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { Grid, Row, Col, Image } from 'react-bootstrap';
 import './Home.css';
-import logo from '../Utils/assets/a+r.jpg';
+import logo from './../Utils/assets/a+r.jpg';
 
 export default class Home extends Component {
     render() {
