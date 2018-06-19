@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+    height: 200px;
+
+}
+/*
+.toast-grid {
+    padding-top: 150px;
+}*/
+
+.toast-pic {
+    margin-top: 50px;
+    margin-bottom: 1em;
+}
+
+.home-pic {
+    width: 100% !important;
+    text-align: center;
+}
