@@ -15,7 +15,7 @@ export default class List extends Component {
                         <h3><a href="https://www.w3schools.com/html/">Casa</a></h3>
                         <h3 className="links"><a>Líf og List</a></h3>
 
-                        <p>Við erum líka að safna okkur fyrir stærri hlutum og því eru peningagjafir vel þegnar :)</p>
+                        <p>Við erum líka að safna okkur fyrir stærri hlutum og því eru peningagjafir vel þegnar :) :)</p>
                     </Col>
                 </Row>
 
