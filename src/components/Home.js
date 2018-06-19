@@ -6,7 +6,7 @@ export default class Home extends Component {
     render() {
         return (
             <Grid className="home-grid">
-                <Image src="//armannpetur.github.io/wedding/public/assets/a+r.jpg" className="home-pic" />
+                <Image src="wedding/public/assets/a+r.jpg" className="home-pic" />
                 <Row className="show-grid text-center">
                     <Col xs={12} sm={4} className="person-wrapper">
                         <Image src="assets/kirkja.jpg" circle className="profile-pic" />
