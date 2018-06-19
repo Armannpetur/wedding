@@ -20,8 +20,13 @@ img {
 
 .home-pic {
     width: 50%;
+    
 }
 
 .home-grid {
     text-align: center;
+}
+
+.logo {
+    background-image: url(./../Utils/assets/a+r.jpg);
 }
