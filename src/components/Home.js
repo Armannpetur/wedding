@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
 import { Grid, Row, Col, Image } from 'react-bootstrap';
 import './Home.css';
+import logo from '../Utils/assets/a+r.jpg';
 
 export default class Home extends Component {
     render() {
         return (
             <Grid className="home-grid">
-                <Image src="public/assets/a+r.jpg" className="home-pic" />
+                <Image src={logo} className="home-pic" />
                 <Row className="show-grid text-center">
                     <Col xs={12} sm={4} className="person-wrapper">
                         <Image src="assets/kirkja.jpg" circle className="profile-pic" />
