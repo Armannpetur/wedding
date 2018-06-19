@@ -11,7 +11,7 @@ export default class Home extends Component {
                 <Row className="show-grid text-center">
                     <Col xs={12} sm={4} className="person-wrapper">
                         <Image src="assets/kirkja.jpg" circle className="profile-pic" />
-                        <h3>Kirkjan</h3>
+                        <h3>Kirkjan...</h3>
                         <p>Athöfnin verður í Akureyrarkirkju kl 15:30</p>
                     </Col>
                     <Col xs={12} sm={4} className="person-wrapper">
