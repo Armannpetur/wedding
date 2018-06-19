@@ -17,7 +17,7 @@ export default class Toastmasters extends Component {
                     <Col xs={12} sm={4} className="person-wrapper">
                         <p>
                             Björk Nóadóttir og Sveinn Leó Bogason eru hressir og skemmtilegir vitleysingar sem ætla að taka að sér veislustjórnun í brúðkaupsveislunni.
-                            Bæði hafa þau þekkt brúðhjónin lengi og verið nánir vinir þeirra um áraraðir. Hins vegar þekkjast þau sjálf ekkert svakalega mikið og óþæginlegt
+                            Bæði hafa þau þekkt brúðhjónin lengi og verið nánir vinir þeirra um áraraðir. Hins vegar þekkjast þau sjálf ekkert svakalega mikið og óþægilegt
                             hefur verið á fyrstu skipulagsfundunum sökum þess. Aðallega er það þó komið til vegna óeðlilegra óska brúðhjónanna, sem hafa vægast sagt
                             verið erfið í öllum þessum undirbúningi hingað til. Björk og Sveinn Leó eru bæði uppalin á Akureyri og búa þar í dag. 
                             Björk á ásamt Helga Þór Jónassyni þrjú börn og Sveinn er í sambúð með Rakel Gunnlaugsdóttir. Bæði Björk og Sveinn Leó eru spennt og stressuð fyrir 
