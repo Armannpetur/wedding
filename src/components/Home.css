@@ -26,7 +26,11 @@ img {
 .home-grid {
     text-align: center;
 }
-/*
+
 .logo {
     background-image: url(./../Utils/assets/a+r.jpg);
-}*/
+}
+
+.kirkjan {
+    background-image: url(./../Utils/assets/kirkja.jpg);
+}
