@@ -4,7 +4,7 @@ import './Home.css';
 import logo from './../Utils/assets/a+r.jpg';
 import kirkja from './../Utils/assets/kirkja.jpg';
 import hjon from './../Utils/assets/profile.jpg';
-import salur from './../Utils/assetshlidarbaer.jpg';
+import salur from './../Utils/assets/hlidarbaer.jpg';
 
 export default class Home extends Component {
     render() {
