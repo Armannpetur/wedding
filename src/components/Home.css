@@ -6,6 +6,7 @@ img {
 
 .profile-pic, .profile-pic-center {
     width: 50%;
+    border-radius: 50%;
 }
 
 .profile-pic-center{
