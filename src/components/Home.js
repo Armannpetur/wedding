@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import { Grid, Row, Col, Image } from 'react-bootstrap';
 import './Home.css';
 import logo from './../Utils/assets/a+r.jpg';
+import kirkja from './../Utils/assets/kirkja.jpg';
 
 export default class Home extends Component {
     render() {
@@ -10,7 +11,7 @@ export default class Home extends Component {
                 <img src={logo} alt="logo" className="home-pic" />
                 <Row className="show-grid text-center">
                     <Col xs={12} sm={4} className="person-wrapper">
-                        <Image src="assets/kirkja.jpg" circle className="profile-pic" />
+                        <img src={kirkja} circle className="profile-pic" />
                         <h3>Kirkjan...</h3>
                         <p>Athöfnin verður í Akureyrarkirkju kl 15:30</p>
                     </Col>
