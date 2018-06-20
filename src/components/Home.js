@@ -23,7 +23,7 @@ export default class Home extends Component {
                         <p>Við erum að fara gifta okkur þann 4.ágúst 2018.</p>
                     </Col>
                     <Col xs={12} sm={4} className="person-wrapper">
-                        <img src={salur} className="profile-pic" />
+                        <img src={salur} alt="baer" className="profile-pic" />
                         <h3>Veislusalur</h3>
                         <p>Veislan er haldin í Hlíðarbæ strax í kjölfar athafnar</p>
                     </Col>

@@ -35,3 +35,11 @@ img {
 .kirkjan {
     background-image: url(./../Utils/assets/kirkja.jpg);
 }
+
+.hjon {
+    background-image: url(./../Utils/assets/profile.jpg);
+}
+
+.baer {
+    background-image: url(./../Utils/assets/hlidarbaer.jpg);
+}
