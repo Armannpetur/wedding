@@ -4,42 +4,12 @@ img {
 
 }
 
-.profile-pic, .profile-pic-center {
-    width: 50%;
-    border-radius: 50%;
-}
-
 .profile-pic-center{
-    margin-top: 1px;
-    width: 300px !important;
-    height: 300px;
+    margin-top: 100px;
 }
 
 .profile-pic{
     margin-top: 100px;
 }
 
-.home-pic {
-    width: 50%;
-    
-}
 
-.home-grid {
-    text-align: center;
-}
-
-.logo {
-    background-image: url(./../Utils/assets/a+r.jpg);
-}
-
-.kirkjan {
-    background-image: url(./../Utils/assets/kirkja.jpg);
-}
-
-.hjon {
-    background-image: url(./../Utils/assets/profile.jpg);
-}
-
-.baer {
-    background-image: url(./../Utils/assets/hlidarbaer.jpg);
-}

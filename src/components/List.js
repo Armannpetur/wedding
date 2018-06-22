@@ -8,6 +8,7 @@ export default class List extends Component {
             <Grid className="home-grid">
                 <Image src="assets/gjafalisti.jpg" className="home-pic" />
                 <Row className="show-grid text-center">
+                    <Col xs={12} md={4}/>
                     <Col xs={12} md={4} className="list-wrapper">
                      <p>Þessir gjafalistar eru eingöngu hugsaðir sem hugmyndir en auðvitað ekki tæmandi listi yfir það sem okkur langar í eða vantar. 
                         </p>
