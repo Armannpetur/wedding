@@ -13,8 +13,8 @@ export default class List extends Component {
                      <p>Þessir gjafalistar eru eingöngu hugsaðir sem hugmyndir en auðvitað ekki tæmandi listi yfir það sem okkur langar í eða vantar. 
                         </p>
 
-                        <h3><a href="https://www.w3schools.com/html/">Casa</a></h3>
-                        <h3 className="links"><a>Líf og List</a></h3>
+                        <h3><a href="https://casa.is/giftlist/view/440/">Casa</a></h3>
+                        <h3 className="links"><a href="https://www.lifoglist.is">Líf og List (listi í verslun)</a></h3>
 
                         <p>Við erum líka að safna okkur fyrir stærri hlutum og því eru peningagjafir vel þegnar :) :)</p>
                     </Col>
