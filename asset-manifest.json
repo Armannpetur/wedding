@@ -1,11 +1,7 @@
 {
   "main.css": "static/css/main.9fdc0262.css",
   "main.css.map": "static/css/main.9fdc0262.css.map",
-  "main.js": "static/js/main.fddf83a8.js",
-  "main.js.map": "static/js/main.fddf83a8.js.map",
-  "static\\media\\a+r.jpg": "static/media/a+r.57a73bc5.jpg",
-  "static\\media\\hlidarbaer.jpg": "static/media/hlidarbaer.1d709f12.jpg",
-  "static\\media\\hvBlundur.jpg": "static/media/hvBlundur.16d391fc.jpg",
-  "static\\media\\kirkja.jpg": "static/media/kirkja.b02c87c7.jpg",
-  "static\\media\\profile.jpg": "static/media/profile.b10523af.jpg"
+  "main.js": "static/js/main.9fe073b5.js",
+  "main.js.map": "static/js/main.9fe073b5.js.map",
+  "static\\media\\hvBlundur.jpg": "static/media/hvBlundur.16d391fc.jpg"
 }
