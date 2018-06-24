@@ -14,6 +14,7 @@ export default class List extends Component {
                         </p>
 
                         <h3><a href="https://casa.is/giftlist/view/440/">Casa</a></h3>
+                        <h3 className="links"><a href="http://www.hrim.is/index.php?route=giftregistry/gift/products&gift_id=34">Hrím</a></h3>
                         <h3 className="links"><a href="https://www.lifoglist.is">Líf og List (listi í verslun)</a></h3>
 
                         <p>Við erum líka að safna okkur fyrir stærri hlutum og því eru peningagjafir vel þegnar :) :)</p>
